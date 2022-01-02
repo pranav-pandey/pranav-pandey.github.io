@@ -1,10 +1,34 @@
 .App {
+  height: 100vh;
   text-align: center;
+  overflow-y: scroll;
 }
-
+.App-wrapper { 
+  height: 40vh;
+  display: flex;
+  flex: 1;
+  background-color: #c9d1e0;
+  /* background-color: #282c34; */
+  background-image: linear-gradient( #c9d1e0,  #282c34);
+}
+.profile-picture {
+  margin: 20px;
+  padding: 5px;
+  align-self: center;
+  height: 20vh;
+  width: 20vh;
+  display: flex;
+  border-radius: 10vh;
+  background-color: rgb(236, 138, 138);
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.header-content {
+  display: flex;
+  margin: 20px;
+  flex-direction: row;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -14,7 +38,6 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
