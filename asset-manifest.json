@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pranav-pandey/static/css/main.5975c334.chunk.css",
+    "main.js": "/pranav-pandey/static/js/main.8c22aa2e.chunk.js",
+    "main.js.map": "/pranav-pandey/static/js/main.8c22aa2e.chunk.js.map",
+    "runtime-main.js": "/pranav-pandey/static/js/runtime-main.09e6308e.js",
+    "runtime-main.js.map": "/pranav-pandey/static/js/runtime-main.09e6308e.js.map",
+    "static/js/2.30c4f410.chunk.js": "/pranav-pandey/static/js/2.30c4f410.chunk.js",
+    "static/js/2.30c4f410.chunk.js.map": "/pranav-pandey/static/js/2.30c4f410.chunk.js.map",
+    "index.html": "/pranav-pandey/index.html",
+    "precache-manifest.1dec55a46c310f9faf1b78c98b1d1719.js": "/pranav-pandey/precache-manifest.1dec55a46c310f9faf1b78c98b1d1719.js",
+    "service-worker.js": "/pranav-pandey/service-worker.js",
+    "static/css/main.5975c334.chunk.css.map": "/pranav-pandey/static/css/main.5975c334.chunk.css.map",
+    "static/js/2.30c4f410.chunk.js.LICENSE.txt": "/pranav-pandey/static/js/2.30c4f410.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09e6308e.js",
+    "static/js/2.30c4f410.chunk.js",
+    "static/css/main.5975c334.chunk.css",
+    "static/js/main.8c22aa2e.chunk.js"
+  ]
+}
