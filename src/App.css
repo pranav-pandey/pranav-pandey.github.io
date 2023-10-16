@@ -1,15 +1,14 @@
 .App {
   height: 100vh;
-  text-align: center;
   overflow-y: scroll;
 }
-.App-wrapper { 
+.App-wrapper {
   height: 40vh;
   display: flex;
   flex: 1;
   background-color: #c9d1e0;
   /* background-color: #282c34; */
-  background-image: linear-gradient( #c9d1e0,  #282c34);
+  background-image: linear-gradient(#c9d1e0, #282c34);
 }
 .profile-picture {
   margin: 20px;
@@ -58,4 +57,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+p,
+h1,
+h2,
+h3 {
+  -webkit-margin-before: 0.5em;
+  -webkit-margin-after: 0.5em;
 }
